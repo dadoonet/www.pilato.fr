@@ -1,9 +1,0 @@
-h1. Some work here...
-
-h2. RSS River
-
-To be completed
-
-h2. Talks
-
-To be completed
